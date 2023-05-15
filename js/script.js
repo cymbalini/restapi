@@ -51,3 +51,4 @@ getCurrency('a').then(data => {
 // git branch -d nazwa(usuwa)
 // git branch nazwa (dodaje)
 // git checkout -b dev(zmienia i tworzy)
+// git merge dev(łączenie innej galezi z masterem(nadpisanie mastera))
